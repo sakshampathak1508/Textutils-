@@ -1,2 +1,2 @@
 # Textutils-
-This is a very simple web used to modify your texts using django
+This is a very simple web app used to modify your texts using django
